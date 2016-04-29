@@ -1,0 +1,22 @@
+body {
+	background-color: yellow;
+}
+
+h1 {
+	color: red;
+
+}
+
+p {
+	align-content: center;
+	font-size: 2em;
+}
+
+a {
+	color: blue;
+	font-size: 1.5em;
+}
+
+img:hover {
+	background-color: pink;
+}
